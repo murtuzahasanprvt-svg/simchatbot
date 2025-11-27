@@ -1,0 +1,5 @@
+{
+  "name": "7thdCopy of Bengal Bistro Bot",
+  "description": "A rule-based automated chatbot for Bengal Bistro, a multi-branch restaurant in Bangladesh. Provides menu, locations, and operational info without AI.",
+  "requestFramePermissions": []
+}
