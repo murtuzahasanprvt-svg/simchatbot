@@ -138,7 +138,7 @@ export const CHECKOUT_STEPS = {
 };
 
 export const OPTIONS = {
-  MENU: "Browse Menu",
+  MENU: "Full Menu",
   CART: "View Cart",
   OFFERS: "Current Offers",
   TRACK: "Track Order",
